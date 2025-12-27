@@ -1,7 +1,7 @@
 # Hi there, I'm Bharath 👋
 
 ## About Me
-- 🌱 I'm currently learning **Web Development** (React, JavaScript, CSS)
+- 🌱 I'm currently learning **Web Development** (React, JavaScript, Tailwind)
 - 💼 I'm looking for opportunities in **Frontend Development**
 - 📫 How to reach me: bharath145p@gmail.com
 - ⚡ Fun fact: I like hands-on learning
@@ -20,8 +20,6 @@
 - [Palette Generator App](https://github.com/bharathP30/my-react-app) - A fun app that generates random color palette
 - [Typing Master App](https://github.com/bharathP30/Type-master) - A simple fun typing test app
 - 
-## GitHub Stats
-![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathP30&show_icons=true&theme=radical)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-patnaikuni-65a53b38a/)
