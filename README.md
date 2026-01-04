@@ -14,12 +14,12 @@
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 ## Projects
+- [Social Media Dashboard](https://github.com/bharathP30/social-media-dashboard) - A dashboard with user auth, that displays live reddit feed and analytics(fake data)
 - [Task Manager App](https://github.com/bharathP30/task-manager) - A responsive task management app
 - [Movie Search App](https://github.com/bharathP30/movie-search-app) - A movie searching app with hardcoded list of movies
 - [Expense Tracker App](https://github.com/bharathP30/expense-tracker) - A tracker app that lets you track expenses
 - [Palette Generator App](https://github.com/bharathP30/my-react-app) - A fun app that generates random color palette
-- [Typing Master App](https://github.com/bharathP30/Type-master) - A simple fun typing test app
-- 
+- [Typing Master App](https://github.com/bharathP30/Type-master) - A simple fun typing test app 
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-patnaikuni-65a53b38a/)
