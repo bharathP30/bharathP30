@@ -1,8 +1,8 @@
 # Hi there, I'm Bharath 👋
 
 ## About Me
-- 🌱 I'm currently learning **Web Development** (React, JavaScript, Tailwind)
-- 💼 I'm looking for opportunities in **Frontend Development**
+- 🌱 I'm currently learning **Web Development** (ReactJs, JavaScript, Tailwind, ExpressJs, NodeJs, MongoDB)
+- 💼 I'm looking for opportunities in **Full-Stack Development**
 - 📫 How to reach me: bharath145p@gmail.com
 - ⚡ Fun fact: I like hands-on learning
 
