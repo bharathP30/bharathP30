@@ -18,10 +18,10 @@
 
 
 ## Projects
-- [Task Manager App](https://github.com/bharathP30/task-manager-v2-frontend) - A task management app with user Auth, deployed on Vercel/Render
-- [Social Media Dashboard](https://github.com/bharathP30/social-media-dashboard) - A dashboard with user auth, that displays live reddit feed and analytics(fake data)
-- [Expense Tracker App](https://github.com/bharathP30/expense-tracker) - A tracker app that lets you track expenses
-- [Typing Master App](https://github.com/bharathP30/Type-master) - A simple fun typing test app 
+- [Task Manager App](https://github.com/bharathP30/task-manager-v2-frontend) - Task CRUD, JWT Auth, deployed on Vercel/Render
+- [Social Media Dashboard](https://github.com/bharathP30/social-media-dashboard) - Reddit feed + Analytics (demo data), user auth
+- [Expense Tracker App](https://github.com/bharathP30/expense-tracker) - A front-end app that lets you track expenses
+- [Typing Master App](https://github.com/bharathP30/Type-master) - Fun typing speed test 
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bharath-patnaikuni-65a53b38a/)
